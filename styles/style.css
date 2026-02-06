@@ -13,7 +13,7 @@ header {
 }
 
 .header__links-list {
-  display: flex; 
+  display: flex;
   justify-content: space-between;
   gap: 29px;
   margin: 0;
@@ -94,7 +94,7 @@ header {
   position: relative;
   z-index: 1;
   display: flex;
-  flex-direction: column; 
+  flex-direction: column;
   flex-grow: 1;
   margin-top: 165px;
   margin-right: 50px;
@@ -151,7 +151,7 @@ header {
   height: 51px;
   border: solid 1px white;
   font-weight: normal;
-  font-size: 22px;  
+  font-size: 22px;
   text-transform: uppercase;
   background-color: transparent;
 }
@@ -161,7 +161,7 @@ header {
 }
 
 .lots {
-  position: relative;;
+  position: relative;
   align-content: space-between;
   column-gap: 27px;
   margin: 180px 24px 0 24px;
@@ -332,11 +332,6 @@ header {
 
 }
 
-.address-information {
-  display: inline-block;
-  word-wrap: break-word;
-}
-
 .footer__social-list {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -347,11 +342,9 @@ header {
 .footer__menu-list {
   font-size: 18px;
   text-align: center;
-  list-style: none;
-  
 }
 
-.footer__social-list {
+.footer__list {
   list-style: none;
 }
 
