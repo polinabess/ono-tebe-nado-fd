@@ -182,7 +182,7 @@ header {
   grid-template-columns: repeat(3, 1fr);
   align-items: stretch;
   column-gap: 25px;
-  margin-top: 27px;
+  margin-top: 26px;
   margin-bottom: 30px;
   list-style-type: none;
 }
